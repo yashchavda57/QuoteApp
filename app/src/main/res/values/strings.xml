@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Quote</string>
+    <string name="quote1">Stay Hungry. Stay Foolish  \n -Steve Jobs</string>
+    <string name="quote2">The greatest glory in living lies not in never falling, but in rising every time we fall. \n -Nelson Mandela</string>
+    <string name="quote3">The way to get started is to quit talking and begin doing.\n -Walt Disney</string>
+    <string name="quote4">Your time is limited, so don not waste it living someone else life. Don not be trapped by dogma – which is living with the results of other people thinking. \n -Steve Jobs</string>
+    <string name="quote5">If life were predictable it would cease to be life, and be without flavor. \n -Elanor Roosevelt</string>
+    <string name="quote6">If you look at what you have in life, you will always have more. If you look at what you don not have in life, you will never have enough.\n -Oprah Winfrey</string>
+    <string name="quote7">Do not go where the path may lead, go instead where there is no path and leave a trail.\n  -Ralph Waldo Emerson</string>
+    <string name="quote8">Always remember that you are absolutely unique. Just like everyone else.\n  -Margaret Mead</string>
+    <string name="quote9">Don not judge each day by the harvest you reap but by the seeds that you plant.\n  -Robert Louis Stevenson</string>
+    <string name="quote10">It is during our darkest moments that we must focus to see the light.\n  -Aristotle</string>
+</resources>
